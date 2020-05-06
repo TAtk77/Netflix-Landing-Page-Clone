@@ -1,0 +1,7 @@
+
+logo:			https://i.ibb.co/r5krrdz/logo.png
+tab-content-1: 		https://i.ibb.co/J2xDJV7/tab-content-1.png
+tab-content-2.1:	https://i.ibb.co/DpdN7Gn/tab-content-2-1.png
+tab-content-2.2:	https://i.ibb.co/R3r1SPX/tab-content-2-2.png
+tab-content-2.3:	https://i.ibb.co/gDhnwWn/tab-content-2-3.png
+background:		https://i.ibb.co/vXqDmnh/background.jpg
